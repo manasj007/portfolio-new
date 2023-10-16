@@ -283,8 +283,12 @@ section {
   display: flex;
 }
 
-.about-pic {
+.profile-pic {
   border-radius: 2rem;
+}
+
+.about-pic {
+  border-radius: 3rem;
 }
 
 .arrow {
